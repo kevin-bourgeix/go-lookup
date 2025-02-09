@@ -1,4 +1,4 @@
-module github.com/mcuadros/go-lookup
+module github.com/kevin-bourgeix/go-lookup
 
 go 1.14
 
