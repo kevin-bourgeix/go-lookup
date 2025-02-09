@@ -1,4 +1,4 @@
-This is a fork of [mcuadros/go-lookup](https://github.com/mcuadros/go-lookup) that includes a fix for lookin up slices in maps from [phinc275/go-lookup](https://github.com/phinc275/go-lookup). This also fixes the go.mod name to import it easily in projects.
+> This is a fork of [mcuadros/go-lookup](https://github.com/mcuadros/go-lookup) that includes a fix for lookin up slices in maps from [phinc275/go-lookup](https://github.com/phinc275/go-lookup). This also fixes the go.mod name to import it easily in projects.
 ==============================
 go-lookup [![Build Status](https://img.shields.io/github/workflow/status/mcuadros/go-lookup/Test.svg)](https://github.com/mcuadros/go-lookup/actions) [![GoDoc](http://godoc.org/github.com/mcuadros/go-lookup?status.png)](https://pkg.go.dev/github.com/mcuadros/go-lookup)
 ==============================
@@ -11,7 +11,7 @@ Installation
 The recommended way to install go-lookup
 
 ```
-go get github.com/mcuadros/go-lookup
+go get github.com/kevin-bourgeix/go-lookup
 ```
 
 Example
